@@ -1,0 +1,26 @@
+@media (max-width:576px) {
+    .company_logo_main svg{
+        width: 200px;
+    }
+    .logo_left {
+        display: flex;
+        justify-content: center;
+    }
+    .logo_right {
+        display: flex;
+        justify-content: center;
+    }
+}
+@media (min-width:577px) and (max-width:767.98px) {
+    .company_logo_main svg{
+        width: 200px;
+    }
+    .logo_left {
+        display: flex;
+        justify-content: center;
+    }
+    .logo_right {
+        display: flex;
+        justify-content: center;
+    }
+}

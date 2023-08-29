@@ -1,0 +1,23 @@
+@media (max-width:320px)  {
+    p{
+        font-size: 15px;
+        padding: 0 10px;
+    }
+    
+}
+@media (min-width:376px) and (max-width:576.98px) {
+    p{
+        font-size: 17px;
+        padding: 0 20px;
+    }
+}
+@media (min-width:577px) and (max-width:736.98px) {
+    p{
+        padding: 0 40px;
+    }
+}
+@media (min-width:737px) and (max-width:767.98px) {
+    p{
+        padding: 0 80px;
+    }
+}

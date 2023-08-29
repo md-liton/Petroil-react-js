@@ -1,0 +1,13 @@
+@media (min-width:415px) and (max-width:767.98px) {
+    .blog_items_main{
+        display: flex;
+        justify-content: space-between;
+    }
+    .blog_items_main .blog_item{
+        width: 30%;
+    }
+    .blog_items_main .blog_item p{
+        font-size: 18px; 
+        padding: 0;
+    }
+}

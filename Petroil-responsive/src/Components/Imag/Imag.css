@@ -1,0 +1,12 @@
+@media (min-width:376px) and (max-width:767.98px) {
+    .img_left{
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+    }
+    .img_right{
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+    }
+}
